@@ -20,3 +20,5 @@ console.log(name.trim());
 
 const url = "https://satyam.com/satyam20%singh";
  console.log(url.replace('20%','-'));
+
+ 
