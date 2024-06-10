@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>first js page</title>
+</head>
+<body>
+    <p id="info"></p>
+    <button onclick="openurl();" name="openurl">openurl</button>
+    <button id="alert">openalert</button>
+    <button id="msg">displaymsg</button>
+    
+    <script>
+        
+           function openurl(event){
+        document.getElementById("info").innerHTML=event.target.name;
+        }
+
+        const alertButton=document.getElementById("alert");
+        alertButton.onclick=(event)=>{
+            window.alert("welcome to js");
+        }
+
+        const msgButton=document.getElementById("msg");
+        msgButton.addEventListener("click",(event)=> { 
+            alert("this is msg");
+        })
+    </script>
+</body>
+</html>
