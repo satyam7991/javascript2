@@ -14,6 +14,7 @@ console.log(gameName.length);
 
 console.log(gameName.toUpperCase());
 console.log(gameName);
+
 const name = '    shubham';
 console.log(name);
 console.log(name.trim());
