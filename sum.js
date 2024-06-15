@@ -11,3 +11,7 @@ sumButton.addEventListener("click",()=>{
 //     const oldData=document.getElementById("para").innerHTML;
 //     document.getElementById("para").innerHTML=oldData+(2+2);
 // });
+sumButton.addEventListener("click",()=>{
+
+
+})
