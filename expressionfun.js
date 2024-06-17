@@ -11,4 +11,4 @@ const sum=function(num1, num2){
 const mul=function(num1, num2){
     return num1*num2;
 }
-console.log("multiply=",mul(23,6));
+console.log("multiply=",mul(23,6));//
