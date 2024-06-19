@@ -8,7 +8,7 @@ function sum(num1,num2){
     console.log("sum=",sum);
 
 }
-sum(10,20);   //actual parameter 
+sum(10,20);   //actual parameter  in java script
 
 
 function mul(num1,num2){
