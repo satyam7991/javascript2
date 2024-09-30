@@ -26,10 +26,3 @@ const url = "https://satyam.com/satyam20%singh";
  console.log(gameName.toLowerCase());
  console.log(name.toUpperCase());
 
-
- let student {
-    name :"ram",
-    rollno :3,
-
- };
- console.log(student.name);
