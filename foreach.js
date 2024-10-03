@@ -4,9 +4,9 @@
 // })
 
 
-// let arr=[12,3,4,5,6,7]
-// let b=arr.map((value,index,array)=>{
-//     return value;
-// })
-// console.log(b);
+let arr=[12,3,4,5,6,7]
+let b=arr.map((value,index,array)=>{
+    return value;
+})
+console.log(b);
 
