@@ -10,3 +10,12 @@ let b=arr.map((value,index,array)=>{
 })
 console.log(b);
 
+//for a given array prices of 5 time given in an array.
+let arrprice=[250,645,300,900,50];
+let discount = 0.1;
+for (let i = 0; i < arrprice.length; i++) {
+    arrprice[i] = arrprice[i] - arrprice[i] * discount;
+}
+console.log(arrprice);
+
+// write a program 

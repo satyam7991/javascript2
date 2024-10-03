@@ -26,3 +26,4 @@ const url = "https://satyam.com/satyam20%singh";
  console.log(gameName.toLowerCase());
  console.log(name.toUpperCase());
 
+ 
