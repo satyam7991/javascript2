@@ -11,9 +11,9 @@ data[8]();
 //     console.log(`value of ${index} is ${data[index]}`);
 // }
 
-// for(let value of data){
-//     console.log(`value of array=${value}`);
-// }
+for(let value of data){
+    console.log(`value of array=${value}`);
+}
 
 //for each// for each loop is very fast 
 
