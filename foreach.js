@@ -1,5 +1,5 @@
 let arr1=[12,23,34,45,56,6]
-arr.forEach((value,index,array)=>{
+arr1.forEach((value,index,array)=>{
     return console.log(value,index,array)
 })
 
