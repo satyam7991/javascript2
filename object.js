@@ -11,4 +11,4 @@ let arrayvalue=[studentInfo,studentInfo,studentInfo];
 arrayvalue.forEach(item=>console.log(item.name));
 console.log(studentInfo.music());
 console.log(studentInfo.play());
-console.log(studentInfo.marks);
+console.log(studentInfo.marks);////
